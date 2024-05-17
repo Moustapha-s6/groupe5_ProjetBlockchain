@@ -1,7 +1,7 @@
 Groupe 5 : Mouhamadou Moustapha Sy,
            Serigne Mansor Dieng,
-		   Oumou Hawa Diallo,
-		   Cheikh Mbacke Ba
+           Oumou Hawa Diallo,
+           Cheikh Mbacke Ba
 
 
 root@JCS:/mnt/c/Users/DELL 5530/go/src/github.com/mansour# curl -sSLO https://raw.githubusercontent.com/hyperledger/fabric/main/scripts/install-fabric.sh && chmod +x install-fabric.sh
